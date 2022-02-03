@@ -1,2 +1,3 @@
 *.h linguist-language=flutter
 *.xml linguist-language=flutter
+*.json linguist-language=flutter
