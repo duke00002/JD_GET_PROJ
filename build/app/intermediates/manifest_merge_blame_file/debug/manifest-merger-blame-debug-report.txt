@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.jd_get_proj"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:5-66
+14-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:22-64
+15    <uses-permission android:name="android.permission.CAMERA" /> <!-- url_launcher 配置 -->
+15-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:5-65
+15-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:22-62
+16    <queries>
+16-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:7:1-28:11
+17
+18        <!-- If your app opens https URLs -->
+19        <intent>
+19-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:9:3-12:12
+20            <action android:name="android.intent.action.VIEW" />
+20-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:5-57
+20-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:13-54
+21
+22            <data android:scheme="https" />
+22-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+22-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+23        </intent>
+24        <!-- If your app makes calls -->
+25        <intent>
+25-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:14:3-17:12
+26            <action android:name="android.intent.action.DIAL" />
+26-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:5-57
+26-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:13-54
+27
+28            <data android:scheme="tel" />
+28-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+28-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+29        </intent>
+30        <!-- If your sends SMS messages -->
+31        <intent>
+31-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:19:3-22:12
+32            <action android:name="android.intent.action.SENDTO" />
+32-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:5-59
+32-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:13-56
+33
+34            <data android:scheme="smsto" />
+34-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+34-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+35        </intent>
+36        <!-- If your app sends emails -->
+37        <intent>
+37-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:24:3-27:12
+38            <action android:name="android.intent.action.SEND" />
+38-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:5-57
+38-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:13-54
+39
+40            <data android:mimeType="*/*" />
+40-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+41        </intent>
+42    </queries>
+43
+44    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+44-->[com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/60b85d32c76f6174d43e445a6aa2cefb/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
+44-->[com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/60b85d32c76f6174d43e445a6aa2cefb/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:22-76
+45
+46    <application
+47        android:name="io.flutter.app.FlutterMultiDexApplication"
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.6.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/AndroidManifest.xml:24:18-86
+49        android:debuggable="true"
+50        android:icon="@mipmap/ic_launcher"
+51        android:label="jd_get_proj" >
+52        <activity
+53            android:name="com.example.jd_get_proj.MainActivity"
+54            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+55            android:exported="true"
+56            android:hardwareAccelerated="true"
+57            android:launchMode="singleTop"
+58            android:theme="@style/LaunchTheme"
+59            android:windowSoftInputMode="adjustResize" >
+60
+61            <!--
+62                 Specifies an Android theme to apply to this Activity as soon as
+63                 the Android process has started. This theme is visible to the user
+64                 while the Flutter UI initializes. After that, this theme continues
+65                 to determine the Window background behind the Flutter UI.
+66            -->
+67            <meta-data
+68                android:name="io.flutter.embedding.android.NormalTheme"
+69                android:resource="@style/NormalTheme" />
+70
+71            <intent-filter>
+72                <action android:name="android.intent.action.MAIN" />
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+75            </intent-filter>
+76        </activity>
+77        <!--
+78             Don't delete the meta-data below.
+79             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+80        -->
+81        <meta-data
+82            android:name="flutterEmbedding"
+83            android:value="2" />
+84
+85        <activity
+85-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+86            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+86-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+87            android:exported="false"
+87-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+88            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+88-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+89        <activity android:name="de.mintware.barcode_scan.BarcodeScannerActivity" />
+89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-84
+89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:19-81
+90    </application>
+91
+92</manifest>
