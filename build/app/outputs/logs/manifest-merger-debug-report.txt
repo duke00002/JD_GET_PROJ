@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:30:4-60:19
-MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:19
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:19
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:30:4-60:19
+MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:19
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/ef3c407ab245da4935c321076ba42e32/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/ef3c407ab245da4935c321076ba42e32/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/f8896e4d54badd670f96108dff6c9d5c/jetified-zxing-1.9.13/AndroidManifest.xml:11:5-20
@@ -18,22 +18,22 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jian
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-MERGED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+MERGED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/e0fd5e1ca6d8af2526223d2abecd725b/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/b2ea5e05fb4fb851184e9b0af980bf49/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/f09b8ddd78b021f724ecbb270644c7ef/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:17:1-24:12
@@ -82,87 +82,87 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jiangrobert/.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/b6c34301107cd06a29fdce8c3ef58e3a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/f15d67ff15ac844b69200ea1a0376a7a/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:2:5-38
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:1-61:12
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:1-61:12
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:5-66
-MERGED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:5-66
-MERGED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:5-66
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:5-66
+MERGED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:5-66
+MERGED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:5-66
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:5-65
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:22-62
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:4:22-62
 queries
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:7:1-28:11
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:7:1-28:11
 intent#action:name:android.intent.action.VIEW+data:scheme:https
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:9:3-12:12
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:9:3-12:12
 action#android.intent.action.VIEW
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:5-57
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:10:5-57
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:13-54
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:10:13-54
 data
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:5-36
 	android:scheme
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:11-33
 intent#action:name:android.intent.action.DIAL+data:scheme:tel
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:14:3-17:12
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:14:3-17:12
 action#android.intent.action.DIAL
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:5-57
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:15:5-57
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:13-54
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:15:13-54
 intent#action:name:android.intent.action.SENDTO+data:scheme:smsto
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:19:3-22:12
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:19:3-22:12
 action#android.intent.action.SENDTO
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:5-59
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:20:5-59
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:13-56
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:20:13-56
 intent#action:name:android.intent.action.SEND+data:mimeType:*/*
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:24:3-27:12
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:24:3-27:12
 action#android.intent.action.SEND
-ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:5-57
+ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:25:5-57
 	android:name
-		ADDED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:13-54
+		ADDED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:25:13-54
 uses-sdk
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/e0fd5e1ca6d8af2526223d2abecd725b/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/e0fd5e1ca6d8af2526223d2abecd725b/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/b2ea5e05fb4fb851184e9b0af980bf49/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:20:5-22:41
@@ -259,26 +259,26 @@ MERGED from [androidx.print:print:1.0.0] /Users/jiangrobert/.gradle/caches/trans
 MERGED from [androidx.print:print:1.0.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/f15d67ff15ac844b69200ea1a0376a7a/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/debug/AndroidManifest.xml
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 activity#de.mintware.barcode_scan.BarcodeScannerActivity
-ADDED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-84
+ADDED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-84
 	android:name
-		ADDED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:19-81
+		ADDED from [:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:19-81
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/60b85d32c76f6174d43e445a6aa2cefb/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/9c869d6c39afd30e0ee6a960de621a9b/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:24:5-79

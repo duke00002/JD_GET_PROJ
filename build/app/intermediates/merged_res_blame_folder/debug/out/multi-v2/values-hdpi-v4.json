@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/b9cbea1e6c97456d1d224f90c5b1403c/jetified-core-1.9.13/res/values-hdpi-v4/values-hdpi-v4.xml",

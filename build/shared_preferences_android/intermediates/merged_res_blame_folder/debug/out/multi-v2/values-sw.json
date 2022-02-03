@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/shared_preferences_android/intermediates/res/merged/debug/values-sw/values-sw.xml",
+            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/shared_preferences_android/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/values-sw/values-sw.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/shared_preferences_android/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/shared_preferences_android/intermediates/res/merged/debug/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/values-sw/values-sw.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
                     "source": "/Users/jiangrobert/.gradle/caches/transforms-2/files-2.1/f419bf2442c9ba50831eeba89000c9a9/appcompat-1.1.0/res/values-am/values-am.xml",

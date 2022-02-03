@@ -12,56 +12,56 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:5-66
-14-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:3:22-64
+14-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:5-66
+14-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:3:22-64
 15    <uses-permission android:name="android.permission.CAMERA" /> <!-- url_launcher 配置 -->
-15-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:5-65
-15-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:4:22-62
+15-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:4:5-65
+15-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:4:22-62
 16    <queries>
-16-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:7:1-28:11
+16-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:7:1-28:11
 17
 18        <!-- If your app opens https URLs -->
 19        <intent>
-19-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:9:3-12:12
+19-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:9:3-12:12
 20            <action android:name="android.intent.action.VIEW" />
-20-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:5-57
-20-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:10:13-54
+20-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:10:5-57
+20-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:10:13-54
 21
 22            <data android:scheme="https" />
-22-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
-22-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+22-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:5-36
+22-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:11-33
 23        </intent>
 24        <!-- If your app makes calls -->
 25        <intent>
-25-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:14:3-17:12
+25-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:14:3-17:12
 26            <action android:name="android.intent.action.DIAL" />
-26-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:5-57
-26-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:15:13-54
+26-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:15:5-57
+26-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:15:13-54
 27
 28            <data android:scheme="tel" />
-28-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
-28-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+28-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:5-36
+28-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:11-33
 29        </intent>
 30        <!-- If your sends SMS messages -->
 31        <intent>
-31-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:19:3-22:12
+31-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:19:3-22:12
 32            <action android:name="android.intent.action.SENDTO" />
-32-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:5-59
-32-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:20:13-56
+32-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:20:5-59
+32-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:20:13-56
 33
 34            <data android:scheme="smsto" />
-34-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
-34-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:11-33
+34-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:5-36
+34-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:11-33
 35        </intent>
 36        <!-- If your app sends emails -->
 37        <intent>
-37-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:24:3-27:12
+37-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:24:3-27:12
 38            <action android:name="android.intent.action.SEND" />
-38-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:5-57
-38-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:25:13-54
+38-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:25:5-57
+38-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:25:13-54
 39
 40            <data android:mimeType="*/*" />
-40-->/Users/jiangrobert/Desktop/flutter_project/jd_get_proj/android/app/src/main/AndroidManifest.xml:11:5-36
+40-->/Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/android/app/src/main/AndroidManifest.xml:11:5-36
 41        </intent>
 42    </queries>
 43
@@ -110,16 +110,16 @@
 83            android:value="2" />
 84
 85        <activity
-85-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+85-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 86            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-86-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+86-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 87            android:exported="false"
-87-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+87-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 88            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-88-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+88-->[:url_launcher_android] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 89        <activity android:name="de.mintware.barcode_scan.BarcodeScannerActivity" />
-89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-84
-89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/jd_get_proj/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:19-81
+89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-84
+89-->[:barcode_scan2] /Users/jiangrobert/Desktop/flutter_project/JD_GETX_PROJ/build/barcode_scan2/intermediates/library_manifest/debug/AndroidManifest.xml:10:19-81
 90    </application>
 91
 92</manifest>
