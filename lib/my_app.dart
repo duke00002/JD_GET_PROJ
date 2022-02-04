@@ -11,6 +11,14 @@ Widget createMyApp() {
       designSize: const Size(375, 812),
       builder: () {
         return GetMaterialApp(
+            builder: (context, widget) {
+              //flutter_screenutil 5.1.1 开始需要以下配置，不然报错，很重要！！！
+              ScreenUtil.setContext(context);
+              return MediaQuery(
+                  //Setting font does not change with system font size
+                  data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),
+                  child: widget!);
+            },
             debugShowCheckedModeBanner: false,
             //中英文切换
             title: "JD".tr,

@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3er5rYeEtvSNjQ4+jcrTUsVVPMk=
+		S2Dtze4X+IsV7RIkr26qLmgxuOE=
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		3er5rYeEtvSNjQ4+jcrTUsVVPMk=
+		S2Dtze4X+IsV7RIkr26qLmgxuOE=
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FJ0VaE3woR8cnJ6RHuiIAR3n2aw=
+		ur7PllF4RcfwKQ8rcD+Fy9BxHxE=
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FJ0VaE3woR8cnJ6RHuiIAR3n2aw=
+		ur7PllF4RcfwKQ8rcD+Fy9BxHxE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -167,11 +167,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3er5rYeEtvSNjQ4+jcrTUsVVPMk=
+			S2Dtze4X+IsV7RIkr26qLmgxuOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZInKK/78lTw84yTIUsog0fL+enHGRwORPYG9nkrRkjo=
+			KH+waEIEuNwGyMOuLavudd9/G5D1IfDT/qVTwz3kZE4=
 			</data>
 		</dict>
 		<key>Modules/barcode_scan2.swiftmodule/arm64.swiftdoc</key>
@@ -189,11 +189,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3er5rYeEtvSNjQ4+jcrTUsVVPMk=
+			S2Dtze4X+IsV7RIkr26qLmgxuOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZInKK/78lTw84yTIUsog0fL+enHGRwORPYG9nkrRkjo=
+			KH+waEIEuNwGyMOuLavudd9/G5D1IfDT/qVTwz3kZE4=
 			</data>
 		</dict>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -211,11 +211,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FJ0VaE3woR8cnJ6RHuiIAR3n2aw=
+			ur7PllF4RcfwKQ8rcD+Fy9BxHxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1z1d5cN5Z6G+0w4nLt6FQqPuUgBXS9Mpu06ELJra/9U=
+			V9iYQDrTJP0J8ncbi49IxBEEF4luRLDGiWXjpk4UOzM=
 			</data>
 		</dict>
 		<key>Modules/barcode_scan2.swiftmodule/x86_64.swiftdoc</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FJ0VaE3woR8cnJ6RHuiIAR3n2aw=
+			ur7PllF4RcfwKQ8rcD+Fy9BxHxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1z1d5cN5Z6G+0w4nLt6FQqPuUgBXS9Mpu06ELJra/9U=
+			V9iYQDrTJP0J8ncbi49IxBEEF4luRLDGiWXjpk4UOzM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
